@@ -2,7 +2,7 @@
 # Algorand Project
 
 ## 📌 Project Title
-Algorand Voting System (example — change this)
+Algorand Voting System 
 
 ## 📖 Description
 This project is built on the Algorand blockchain. It aims to create a decentralized application (dApp) for secure and transparent voting.
@@ -14,11 +14,11 @@ This project is built on the Algorand blockchain. It aims to create a decentrali
 
 ## 🛠️ Tech Stack
 - Algorand Blockchain
-- Python / JavaScript (choose what you’ll use)
+- Python / JavaScript 
 - Algorand SDK
 
 ## 📅 Project Status
 Initial setup completed. Development in progress.
 
 ## 👨‍💻 Author
-Your Name 
+P.RAHUL
